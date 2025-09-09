@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BassicPersistenceExercises", "..\..\source\repos\ProgVisu2025B\aps47\relacionamentos\BassicPersistenceExercises\BassicPersistenceExercises.csproj", "{34BF8BB4-5648-465B-A8F8-09A39F14BEC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34BF8BB4-5648-465B-A8F8-09A39F14BEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BF8BB4-5648-465B-A8F8-09A39F14BEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BF8BB4-5648-465B-A8F8-09A39F14BEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BF8BB4-5648-465B-A8F8-09A39F14BEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5A784BC-EFFE-4319-81D2-14F1C872AC6C}
+	EndGlobalSection
+EndGlobal
